@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Saeed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h6 align="center">I'm a web developer specializing in the MERN stack (React.js, Node.js, Express.js, MongoDB) with a passion for creating fast, accessible, and visually appealing web applications. Over the past two years, I've honed my skills in React.js and Tailwind CSS, while actively learning Next.js. I continuously push the boundaries of modern web technologies to deliver exceptional digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibsaeed117&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibsaeed117" /> </p>
 
